@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/http//rsiritom.github.io/mundopatin/static/css/main.256a6328.chunk.css",
+    "main.js": "/http//rsiritom.github.io/mundopatin/static/js/main.d68d080d.chunk.js",
+    "main.js.map": "/http//rsiritom.github.io/mundopatin/static/js/main.d68d080d.chunk.js.map",
+    "runtime-main.js": "/http//rsiritom.github.io/mundopatin/static/js/runtime-main.807e5003.js",
+    "runtime-main.js.map": "/http//rsiritom.github.io/mundopatin/static/js/runtime-main.807e5003.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/http//rsiritom.github.io/mundopatin/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d52162b5.chunk.js": "/http//rsiritom.github.io/mundopatin/static/js/2.d52162b5.chunk.js",
+    "static/js/2.d52162b5.chunk.js.map": "/http//rsiritom.github.io/mundopatin/static/js/2.d52162b5.chunk.js.map",
+    "index.html": "/http//rsiritom.github.io/mundopatin/index.html",
+    "precache-manifest.ae63301be043e93a0cf1aef525310b14.js": "/http//rsiritom.github.io/mundopatin/precache-manifest.ae63301be043e93a0cf1aef525310b14.js",
+    "service-worker.js": "/http//rsiritom.github.io/mundopatin/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/http//rsiritom.github.io/mundopatin/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.256a6328.chunk.css.map": "/http//rsiritom.github.io/mundopatin/static/css/main.256a6328.chunk.css.map",
+    "static/js/2.d52162b5.chunk.js.LICENSE.txt": "/http//rsiritom.github.io/mundopatin/static/js/2.d52162b5.chunk.js.LICENSE.txt",
+    "static/media/WS2020.jpg": "/http//rsiritom.github.io/mundopatin/static/media/WS2020.388620bb.jpg",
+    "static/media/App.css": "/http//rsiritom.github.io/mundopatin/static/media/defaultBcg.2495b422.jpg",
+    "static/media/galeria-1.jpg": "/http//rsiritom.github.io/mundopatin/static/media/galeria-1.63c6969d.jpg",
+    "static/media/galeria-2.jpg": "/http//rsiritom.github.io/mundopatin/static/media/galeria-2.653e865f.jpg",
+    "static/media/galeria-3.jpg": "/http//rsiritom.github.io/mundopatin/static/media/galeria-3.189e6536.jpg",
+    "static/media/galeria-4.jpeg": "/http//rsiritom.github.io/mundopatin/static/media/galeria-4.f03b8eb5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.807e5003.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d52162b5.chunk.js",
+    "static/css/main.256a6328.chunk.css",
+    "static/js/main.d68d080d.chunk.js"
+  ]
+}
