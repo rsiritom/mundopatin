@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/test2/static/css/main.a6f34757.chunk.css",
-    "main.js": "/test2/static/js/main.18e792ce.chunk.js",
-    "main.js.map": "/test2/static/js/main.18e792ce.chunk.js.map",
-    "runtime-main.js": "/test2/static/js/runtime-main.70875b4d.js",
-    "runtime-main.js.map": "/test2/static/js/runtime-main.70875b4d.js.map",
+    "main.js": "/test2/static/js/main.e8138734.chunk.js",
+    "main.js.map": "/test2/static/js/main.e8138734.chunk.js.map",
+    "runtime-main.js": "/test2/static/js/runtime-main.e9def6b2.js",
+    "runtime-main.js.map": "/test2/static/js/runtime-main.e9def6b2.js.map",
     "static/css/2.af3c1da9.chunk.css": "/test2/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d5e19fec.chunk.js": "/test2/static/js/2.d5e19fec.chunk.js",
-    "static/js/2.d5e19fec.chunk.js.map": "/test2/static/js/2.d5e19fec.chunk.js.map",
+    "static/js/2.bfc8d710.chunk.js": "/test2/static/js/2.bfc8d710.chunk.js",
+    "static/js/2.bfc8d710.chunk.js.map": "/test2/static/js/2.bfc8d710.chunk.js.map",
     "index.html": "/test2/index.html",
-    "precache-manifest.9d4f62874528db1d4f035fd05ee0b853.js": "/test2/precache-manifest.9d4f62874528db1d4f035fd05ee0b853.js",
+    "precache-manifest.85cda552471e77ac44e953600714ce5d.js": "/test2/precache-manifest.85cda552471e77ac44e953600714ce5d.js",
     "service-worker.js": "/test2/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/test2/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.a6f34757.chunk.css.map": "/test2/static/css/main.a6f34757.chunk.css.map",
-    "static/js/2.d5e19fec.chunk.js.LICENSE.txt": "/test2/static/js/2.d5e19fec.chunk.js.LICENSE.txt",
+    "static/js/2.bfc8d710.chunk.js.LICENSE.txt": "/test2/static/js/2.bfc8d710.chunk.js.LICENSE.txt",
     "static/media/galeria-1.jpg": "/test2/static/media/galeria-1.63c6969d.jpg",
     "static/media/galeria-2.jpg": "/test2/static/media/galeria-2.653e865f.jpg",
     "static/media/galeria-3.jpg": "/test2/static/media/galeria-3.189e6536.jpg",
     "static/media/galeria-4.jpeg": "/test2/static/media/galeria-4.f03b8eb5.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70875b4d.js",
+    "static/js/runtime-main.e9def6b2.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d5e19fec.chunk.js",
+    "static/js/2.bfc8d710.chunk.js",
     "static/css/main.a6f34757.chunk.css",
-    "static/js/main.18e792ce.chunk.js"
+    "static/js/main.e8138734.chunk.js"
   ]
 }
